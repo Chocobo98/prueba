@@ -2,4 +2,6 @@
 
 Si llegaste hasta aqui, es por lograste agregarme
 
-//Cambia este texto por otro para verificar
+# Acabas de cambiar esta parte, tu primer cambio remoto!
+
+//Cambia este texto al segundo cambio, despues de haber subido el archivo
